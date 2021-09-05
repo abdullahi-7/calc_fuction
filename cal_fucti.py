@@ -19,7 +19,7 @@ def cal(nX, op, nY):
         print(answer)
     elif op == divide:
         answer = nX / nY
-           print(answer)
+        print(answer)
     else:
         print("use the intruction above!!!!")
 
